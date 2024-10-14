@@ -48,7 +48,7 @@ Each user record includes the following information:
 4. Run the application: ./gradlew bootRun
 
 
-###API Endpoints:
+### API Endpoints:
 
 POST		**/users**			: Create a new user
 
@@ -61,7 +61,7 @@ PUT			**/users/{id}**		: Update a user
 DELETE		**/users/{id}**		: Delete a user
 
 
-###Test APIs using Postman:
+### Test APIs using Postman:
 
 Download Postman: If you haven’t already, download and install Postman.
 
